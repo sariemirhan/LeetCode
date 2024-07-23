@@ -8,6 +8,7 @@ class Solution {
             if (map.containsKey(complement)) {
             
                 return intArrayOf(map[complement]!!,index)
+                //deneme
             
             }
             
